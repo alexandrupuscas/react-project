@@ -5,4 +5,4 @@
 
 Available commands:
 1. npm start - start the project
-2. npm run build - setup build in order to deploy
+2. npm run build - setup build for deploy
